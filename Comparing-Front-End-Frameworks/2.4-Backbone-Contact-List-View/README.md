@@ -1,5 +1,6 @@
-# Backbone Router
-In this lesson we will build the router, where we define which routes our application will use. The router connects URLs to JavaScript functions and ultimately to Backbone.Views.
+# Backbone Contact List View
 
-### Related Links
-- [Backbone.Router](http://backbonejs.org/#Router)
+For the next step, we want create a view to display the list of contact records on the main page of our application.
+
+## Related Links
+- [Backbone.View](http://backbonejs.org/#View)
