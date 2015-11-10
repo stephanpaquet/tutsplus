@@ -1,0 +1,12 @@
+<!-- Home page -->
+
+<div class="actions">
+    <a href="/contact/new"> New contact </a>
+</div>
+<ul>
+    <li ng-repeat="c in contacts">
+        <a href="/contacts/{{ c.id }}">
+            {{ c.firstName }} {{ c.lastName }} <span>{{ c.email }}</span>
+        </a>
+    </li>
+</ul>
