@@ -1,8 +1,8 @@
 {
-  "name": "backbone",
+  "name": "public",
   "homepage": "https://github.com/stephanpaquet/tutsplus",
   "authors": [
-    "Stephan Paquet <stephanpaquet@gmail.com>"
+    "spaquet <stephan.paquet@duproprio.com>"
   ],
   "description": "",
   "main": "",
@@ -16,9 +16,9 @@
     "tests"
   ],
   "dependencies": {
-    "backbone": "~1.2.3",
-    "jquery": "~2.1.4",
-    "react": "~0.13.3",
+    "angular": "~1.4.7",
+    "angular-resource": "~1.4.7",
+    "angular-route": "~1.4.7",
     "bootstrap": "~3.3.5"
   }
 }
