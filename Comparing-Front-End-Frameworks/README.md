@@ -16,3 +16,4 @@ During the course, we're going to build an address book application with four di
 
 ## Ember
 - Permet facilement de s'adapter a l'API du backend si pas conforme au standard d'Ember
+- Bien connecté entre le model et la Router
