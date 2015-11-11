@@ -12,3 +12,7 @@ During the course, we're going to build an address book application with four di
 ## React JS - Facebook
 - Only View component only
 - Not a MVC, donc a besoin d'un module pour le model et Router
+
+
+## Ember
+- Permet facilement de s'adapter a l'API du backend si pas conforme au standard d'Ember
