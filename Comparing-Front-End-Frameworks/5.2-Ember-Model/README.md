@@ -1,19 +1,8 @@
-# Ember Application Setup
-The last framework we’ll use is Ember. As usual, we’ll begin by configuring index.html and installing the Ember libraries.
+# Ember Model
 
-##Related Links
+The Ember model is very easy to set up. However, since our REST API doesn’t have the exact path names and data format that Ember expects, we’ll have to add a layer between the model and the API.
 
-[Ember](http://emberjs.com/)
+## Related Links
 
-- Depend de jQuery
-- on doit inclure une librairie pour le model - ember-data (qui elle dépend de handlebars)
-- handlebars permet de compiler les templates (template ember compiler)
-
-```
-bower install ember#1.11.0 --save
-bower install ember-data --save
-```
-```
-npm install
-node server.js
-```
+- [Ember Guides: Models](http://guides.emberjs.com/v1.10.0/models/)
+- [Ember API Reference: DS.RESTSerializer](http://emberjs.com/api/data/classes/DS.RESTSerializer.html)
