@@ -1,0 +1,14 @@
+<svg>
+    <!-- g = group element -->
+    <g class="axes">
+       <line class="border" ng-attr-x1="{{ leftLimit }}" y1="0" ng-attr-x2="{{ leftLimit}}" ng-attr-y2="{{ bottomLimit }}"/>
+    </g>
+
+    <g class="axes">
+       <line class="border" ng-attr-x1="{{ leftLimit }}" ng-attr-y1="{{ bottomLimit }}" ng-attr-x2="{{ rightLimit}}" ng-attr-y2="{{ bottomLimit }}"/>
+    </g>
+    
+    <g class="datapoints" ng-transclude> 
+        
+    </g>
+</svg>
