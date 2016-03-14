@@ -1,5 +1,4 @@
 # Comparing-Front-End-Frameworks
-Comparing Front-End Frameworks
 
 https://code.tutsplus.com/courses/comparing-front-end-frameworks
 
