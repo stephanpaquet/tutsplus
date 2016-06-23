@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'timezone' => 'UTC',
+    'timezone' => 'America/New_York',
 
     /*
     |--------------------------------------------------------------------------
@@ -151,10 +151,10 @@ return [
         /*
          * Application Service Providers...
          */
-        App\Providers\AppServiceProvider::class,
-        App\Providers\AuthServiceProvider::class,
-        App\Providers\EventServiceProvider::class,
-        App\Providers\RouteServiceProvider::class,
+        SundaySim\Providers\AppServiceProvider::class,
+        SundaySim\Providers\AuthServiceProvider::class,
+        SundaySim\Providers\EventServiceProvider::class,
+        SundaySim\Providers\RouteServiceProvider::class,
 
     ],
 

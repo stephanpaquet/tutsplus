@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace SundaySim\Events;
 
 abstract class Event
 {

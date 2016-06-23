@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace SundaySim;
 
 use Illuminate\Foundation\Auth\User as Authenticatable;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Jobs;
+namespace SundaySim\Jobs;
 
 use Illuminate\Bus\Queueable;
 
